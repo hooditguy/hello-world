@@ -5,6 +5,8 @@ Hello, I would like this to be a place where I can communicate with everyone on 
 - [ ] Build a solid reputation
 - [ ] Get a developer job
 - [ ] Contact the media 
+
+
 | Random Questions|Answers      |
 | --------------- | ----------- |
 | Favorite Food   | Sushi       |
